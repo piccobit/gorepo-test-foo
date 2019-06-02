@@ -1,3 +1,3 @@
 # gorepo-test-foo
 
-## #2
+## #3
